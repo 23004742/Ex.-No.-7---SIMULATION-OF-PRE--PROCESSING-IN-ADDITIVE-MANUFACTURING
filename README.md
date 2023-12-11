@@ -110,8 +110,8 @@ Each pattern has its own characteristics in terms of strength, material usage, p
 
 ## Output:
 
-### Name: K.Madhava Reddy
-### Register Number: 23009929
+### Name: L.yagnesh kumar reddy
+### Register Number: 23004742
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
